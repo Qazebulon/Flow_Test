@@ -3,7 +3,7 @@
 
 <main>
   <h1>Template Home Page</h1>
-  <span>Feature A</span>
+  <span>Feature B</span>
 </main>
 
 <style>
