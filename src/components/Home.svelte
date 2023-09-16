@@ -3,7 +3,7 @@
 
 <main>
   <h1>Template Home Page</h1>
-  <span>Feature Init</span>
+  <span>Feature A</span>
 </main>
 
 <style>
